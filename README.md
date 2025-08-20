@@ -4,7 +4,7 @@
 
 ## 🦄 个人信息
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=22&duration=3000&pause=1000&color=AB35FFDC&center=true&vCenter=true&repeat=false&width=435&lines='%E4%B9%B0%E5%AE%9A%E4%B8%8D%E7%A6%BB%E6%89%8B'++%E6%8A%BD%E8%B1%A1%E6%B4%BE%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=WDXL+Lubrifont+TC&duration=2200&pause=1000&color=D93BF7&width=435&lines=%E6%88%91%E6%98%AF%E2%80%99%E4%B9%B0%E5%AE%9A%E4%B8%8D%E7%A6%BB%E6%89%8B%E2%80%98%EF%BC%8C%E4%B8%80%E4%B8%AA%E4%B9%90%E4%BA%8E%E6%8A%98%E8%85%BE%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%97%A0%E5%90%8D%E5%B0%8F%E8%BE%88" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=22&duration=3000&pause=1000&color=199FFFDC&center=true&vCenter=true&multiline=true&width=435&lines=%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%AD..." alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
