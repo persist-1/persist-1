@@ -4,7 +4,10 @@
 
 ## 🦄 个人信息
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Ink&pause=100&color=C536F7&center=true&vCenter=true&multiline=true&width=435&lines=I+need+a+job%F0%9F%98%A2;and+I+just+lo%5C%2Fe+my+job%F0%9F%A5%B0" alt="Typing SVG" /></a>
+      <!--介绍-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda&weight=450&size=25&duration=1000&pause=2500&color=C536F7&center=true&vCenter=true&repeat=false&width=435&lines=Nickname+--+'Persist1'%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F" alt="Typing SVG" /></a>
+      <!--短句-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Ink&size=25&duration=1000&pause=2500&color=F74485&center=true&vCenter=true&repeat=false&width=435&lines=I+just+lo%5C%2Fe+my+job%F0%9F%A5%B0" alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
 <a href="https://blog.persist1.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
