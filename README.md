@@ -16,7 +16,7 @@
 
 ## ☃️ 我的项目
 - [Visual_MediaCrawler: 可视化爬虫（支持：哔哩哔哩 | 抖音 | 小红书 | 贴吧 | 微博 | 知乎 | 快手），异步、高效、直观地采集国内主流平台的媒体数据的前后端一体项目](https://github.com/persist-1/Visual_MediaCrawler)
-- [CSZC_ZhilianBI: '智联招聘'数据采集、分析与可视化系统，支持多城市数据爬取、多维度数据分析、图表看板展示]([https://github.com/persist-1/Visual_MediaCrawler](https://github.com/persist-1/CSZC_ZhilianBI))
+- [CSZC_ZhilianBI: '智联招聘'数据采集、分析与可视化系统，支持多城市数据爬取、多维度数据分析、图表看板展示](https://github.com/persist-1/CSZC_ZhilianBI)
 
 ## 🤺 技术栈
 <p align="left"> 
