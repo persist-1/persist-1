@@ -4,8 +4,7 @@
 
 ## 🦄 个人信息
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=WDXL+Lubrifont+TC&duration=2700&pause=1300&color=D93BF7&width=435&lines=%E6%88%91%E6%98%AF%E2%80%99%E4%B9%B0%E5%AE%9A%E4%B8%8D%E7%A6%BB%E6%89%8B%E2%80%98%EF%BC%8C%E4%B8%80%E4%B8%AA%E4%B9%90%E4%BA%8E%E6%8A%98%E8%85%BE%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%97%A0%E5%90%8D%E5%B0%8F%E8%BE%88" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=22&duration=3000&pause=1000&color=199FFFDC&center=true&vCenter=true&multiline=true&width=435&lines=%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%AD..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Ink&pause=100&color=C536F7&center=true&vCenter=true&multiline=true&width=435&lines=I+need+a+job%F0%9F%98%A2;and+I+just+lo%5C%2Fe+my+job%F0%9F%A5%B0" alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
 <a href="https://blog.persist1.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
@@ -14,7 +13,7 @@
 
 ## ☃️ 我的项目
 - [Visual_MediaCrawler: 可视化爬虫（支持：哔哩哔哩 | 抖音 | 小红书 | 贴吧 | 微博 | 知乎 | 快手），异步、高效、直观地采集国内主流平台的媒体数据的前后端一体项目](https://github.com/persist-1/Visual_MediaCrawler)
-
+- [CSZC_ZhilianBI: '智联招聘'数据采集、分析与可视化系统，支持多城市数据爬取、多维度数据分析、图表看板展示]([https://github.com/persist-1/Visual_MediaCrawler](https://github.com/persist-1/CSZC_ZhilianBI))
 
 ## 🤺 技术栈
 <p align="left"> 
