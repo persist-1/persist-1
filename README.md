@@ -6,9 +6,8 @@
 <p align="center"> 
       <!--介绍-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda&weight=450&size=25&duration=1000&pause=2500&color=C536F7&center=true&vCenter=true&repeat=false&width=435&lines=Nickname+--+'Persist1'%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F" alt="Typing SVG" /></a>
-
+      
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Ink&size=25&duration=1000&pause=2500&color=F74485&center=true&vCenter=true&repeat=false&width=435&lines=I+just+lo%5C%2Fe+my+job%F0%9F%A5%B0" alt="Typing SVG" /></a>
-
 
 </p>
 
@@ -50,6 +49,6 @@
 
 <p align="left"> 
 <!--<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=persist-1&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>-->
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persist-1&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+<!--<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persist-1&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>-->
 </p>
 
