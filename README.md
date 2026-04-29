@@ -9,14 +9,11 @@
       <!--短句-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Ink&size=25&duration=1000&pause=2500&color=F74485&center=true&vCenter=true&repeat=false&width=435&lines=I+just+lo%5C%2Fe+my+job%F0%9F%A5%B0" alt="Typing SVG" /></a>
 </p>
-<p align="center"> 
+<!--<p align="center"> 
 <a href="https://blog.persist1.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/471591991" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
-</p>
+</p> 你在看什么？O_o -->
 
-## ☃️ 我的项目
-- [Visual_MediaCrawler: 可视化爬虫（支持：哔哩哔哩 | 抖音 | 小红书 | 贴吧 | 微博 | 知乎 | 快手），异步、高效、直观地采集国内主流平台的媒体数据的前后端一体项目](https://github.com/persist-1/Visual_MediaCrawler)
-- [CSZC_ZhilianBI: '智联招聘'数据采集、分析与可视化系统，支持多城市数据爬取、多维度数据分析、图表看板展示](https://github.com/persist-1/CSZC_ZhilianBI)
 
 ## 🤺 技术栈
 <p align="left"> 
